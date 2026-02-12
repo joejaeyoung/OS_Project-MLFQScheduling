@@ -152,10 +152,15 @@ set_proc_info(2, 0, 0, 0, 300);
 
 ### 스케줄러 동작 흐름
 
-![[OS_Project-MLFQScheduling/docs/images/image1.png]]
+<div align="center">
+<img src="docs/images/image1.png" width="500"/>
+</div>
+
 ### 타이머 인터럽트 처리 흐름
 
-![[OS_Project-MLFQScheduling/docs/images/image2.png|500]]
+<div align="center">
+<img src="docs/images/image2.png" width="500"/>
+</div>
 
 ### 핵심 상수 정의
 
